@@ -7,7 +7,7 @@ export default {
         generalsans: ['General Sans', 'sans-serif'],
       },
       colors: {
-        black: {https://github.com/adrianhajdin/threejs-portfolio.git
+        black: {
           DEFAULT: '#000',
           100: '#010103',
           200: '#0E0E10',
